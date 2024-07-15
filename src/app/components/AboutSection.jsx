@@ -55,7 +55,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          ☀ As a full stack Developer, I'm deeply committed to leveraging technology for societal good.
+          ☀ As a full stack Developer, I&apos;m deeply committed to leveraging technology for societal good.
 <br /><br />☀ With a background that bridges both Art and Science, I bring a unique multidisciplinary perspective to my work.
 <br /><br />☀ I thrive on continuous learning. My adaptability and quick learning abilities empower me to tackle any challenge with enthusiasm.
 <br /><br />☀ Having lived and worked across three continents—America, Asia, and Europe—over the past decade, I possess a keen understanding of global dynamics. My experiences have cultivated a nuanced appreciation for inclusion and diversity.
