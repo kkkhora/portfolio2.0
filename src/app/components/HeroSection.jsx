@@ -37,14 +37,14 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          Full Stack Developer 💻 Web Dev Freelancer 🎨 UI/UX Designer 🤖 AI and web3 enthusiast 🤖 Machine Learning 🌈 "Tech for Good" 🔅 Dancer for peace & ❤️
+          Full Stack Developer 💻 Web Dev Freelancer 🎨 UI/UX Designer 🤖 AI and web3 enthusiast 🤖 Machine Learning 🌈 &quot;Tech for Good&quot; 🔅 Dancer for peace & ❤️
           </p>
           <div>
             <Link
               href="/#contact"
               className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
             >
-              Let's talk about your need!
+              Let&apos;s talk about your need!
             </Link>
             {/* <Link
               href="/"
